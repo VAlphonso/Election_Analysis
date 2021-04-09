@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election aufit of a lolcal congressional election. 
+A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a local congressional election. 
 
 ## Resources
 - Data Source: election_results.csv
@@ -14,7 +14,7 @@ The analysis of the election show that:
   - Candidate1
   - Candidate2
   - Candidate3
-- The canadidate results were:
+- The candidate results were:
   - Candidate1 received x% of the vote and y number of votes.
   - Can
   - Can
