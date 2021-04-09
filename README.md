@@ -10,7 +10,7 @@ I was given the following resources to utilize:
 
 ## Summary
 My analysis concluded that:
-1. There were 369,711 votes cast in this cogressional election.
+1. There were 369,711 votes cast in this congressional election.
 
 2. The candidates were:
    * Charles Casper Stockham
@@ -30,7 +30,7 @@ My analysis concluded that:
 ### Election-Audit Results
 
 Continuing my audit to the county level:
- - Denver County had the largest numer of votes with 82.8% of the vote and 306,055 number of votes.
+ - Denver County had the largest number of votes with 82.8% of the vote and 306,055 number of votes.
  - Jefferson County had 10.5% of the vote and 38,855 number of votes.
  - Arapahoe County had 6.7% of the vote and 24,801 number of votes. 
 
@@ -38,9 +38,9 @@ Continuing my audit to the county level:
 
 ## Challenge Summary
 
-To conclude, this script can be used for any local election and at the state level.  It is flexible enough to be changed to accomodate any level of election and easy enough to be implemented to calculate any results.  
+To conclude, this script can be used for any local election and at the state level.  It is flexible enough to be changed to accommodate any level of election and easy enough to be implemented to calculate any results.  
 
-The following code can be changed to retrive data found in the csv file and iterated to calculate percentage points.
+The following code can be changed to retrieve data found in the csv file and iterated to calculate percentage points.
 
 ![interchangeable_code.png](analysis/interchangeable_code.png)
 
